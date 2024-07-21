@@ -71,6 +71,11 @@ section{
     .container{
         flex-direction: column;
     }
+    
+    header{
+        font-size: 13px;
+        width: 100%;
+    }
 
 }
 
