@@ -57,9 +57,10 @@ section{
     cursor: pointer;
 }
 
-@media (max-width:760px){
+@media (max-width:768px){
     main{
         width: 100%;
+        padding: 10px;
     }
 
     .sidebar{
